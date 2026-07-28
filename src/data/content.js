@@ -12,7 +12,7 @@ export const profile = {
   email: 'alimu7420@gmail.com',
   phone: '+20 1016182803',
   phoneHref: 'tel:+201016182803',
-  photo: '/myphh.jpeg',
+  photo: '/myphh_pure_white.png',
   cv: '/Ali_Mostafa_CV.pdf',
   github: 'https://github.com',        // TODO: replace with your real GitHub profile URL
   linkedin: 'https://www.linkedin.com/in/ali-mostafa-4023bb252/?locale=en',

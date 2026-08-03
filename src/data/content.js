@@ -12,7 +12,7 @@ export const profile = {
   email: 'alimu7420@gmail.com',
   phone: '+20 1016182803',
   phoneHref: 'tel:+201016182803',
-  photo: '/myphh_pure_white.png',
+  photo: '/ali.jpeg',
   cv: '/Ali_Mostafa_CV.pdf',
   github: 'https://github.com',        // TODO: replace with your real GitHub profile URL
   linkedin: 'https://www.linkedin.com/in/ali-mostafa-4023bb252/?locale=en',
@@ -36,12 +36,12 @@ export const stats = [
 
 // Nodes rendered in the animated hero diagram.
 export const heroNodes = [
-  { id: 'llm',  label: 'LLM',        x: 50,   y: 14, tone: 'primary'   },
-  { id: 'agt',  label: 'Agents',     x: 81.2, y: 32, tone: 'secondary' },
-  { id: 'mcp',  label: 'MCP',        x: 81.2, y: 68, tone: 'accent'    },
-  { id: 'api',  label: 'APIs',       x: 50,   y: 86, tone: 'primary'   },
-  { id: 'cld',  label: 'Cloud',      x: 18.8, y: 68, tone: 'secondary' },
-  { id: 'auto', label: 'Automation', x: 18.8, y: 32, tone: 'accent'    },
+  { id: 'llm', label: 'LLM', x: 50, y: 14, tone: 'primary' },
+  { id: 'agt', label: 'Agents', x: 81.2, y: 32, tone: 'secondary' },
+  { id: 'mcp', label: 'MCP', x: 81.2, y: 68, tone: 'accent' },
+  { id: 'api', label: 'APIs', x: 50, y: 86, tone: 'primary' },
+  { id: 'cld', label: 'Cloud', x: 18.8, y: 68, tone: 'secondary' },
+  { id: 'auto', label: 'Automation', x: 18.8, y: 32, tone: 'accent' },
 ];
 
 export const about = {
